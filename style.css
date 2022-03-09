@@ -1,0 +1,247 @@
+*{
+    box-sizing: border-box;
+}
+.body{
+    font-family: 'Roboto', sans-serif, Helvetica;
+}
+.myForm{
+    
+}
+.myInput2{
+    width: 300px !important;
+}
+.myList3 li{
+    padding: 0 10px;
+}
+.myInput{
+    width: 700px !important;
+}
+
+.myLoginBtn{
+    text-decoration: underline !important;
+}
+.myLoginBtn:hover{
+    text-decoration: none !important;
+    cursor: pointer;
+}
+.myBackgroundBtn{
+    padding-bottom: 10px !important;
+}
+.myImg{
+    text-decoration: none;
+}
+.myNavbar{
+    margin: 0 20px;
+}
+.myUlist a{
+    color: #002F34;
+}
+.myUlist a:hover{
+    color: #5D8FFE;
+}
+.myNavbar2{
+    margin: 0 40px;
+}
+.myNav{
+    margin: 0 25px;
+}
+.myMenu a{
+    color: #002F34 !important;
+}
+.myMenu a:hover{
+    color: #00ADC7 !important;
+}
+.myList a{
+    color: #002F34 !important;
+}
+.myList a:hover{
+    color: #00ADC7 !important;
+}
+/* --------img------- */
+.myBackground{
+        width: 100%;
+        height: 16rem;
+        background: url(images/wallpaper.6416002a042322099dbfec286d7574f4.jpg);
+        background-repeat: no-repeat;
+        background-position: 50%;
+        background-size: cover;
+}
+.myEmptyDiv{
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 3.6rem 0;
+    background-color: #fff;
+}
+.myHeading{
+    margin: 0 55px;
+    color: #002F41;
+}
+.myImagebar{
+    margin: 0 70px;
+}
+.myCard{
+    cursor: pointer;
+}
+.myBtnDiv1{
+    /* border: 1px solid red; */
+    padding: 4px 0;
+}
+.myButton{
+    border: 2px solid black !important;
+    background-color: white !important;
+    color: #002F34 !important;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bolder;
+    cursor: pointer;
+  }
+.myBtn2{
+    border-color: #002F34 !important;
+    color: #002F34 !important;
+  }
+  .myBtn2:hover{
+      border: 4px solid #002F34 !important;
+    background-color: white !important;
+    color: #002F34 !important;
+    text-shadow: #002F34 !important;
+  }
+  .myBackground2{
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 6.6rem 0;
+    background-color: #fff;
+
+  }
+ .myFluidContainer{
+     background-color:  #F7F8F9;
+     border-bottom: 2px solid #BCC7C9;
+     display: flex;
+ }
+ .myContainerFooter{
+     display: flex;
+     padding-top: 20px;
+     padding-bottom: 20px;
+
+ }
+ .myFooterText{
+     
+ }
+ 
+.myPara{
+    width: 44%;
+    border-right: 2px solid #C6CFD1 ;
+    padding: 10px 10px;
+    color: #002F34;
+}
+.myHeadingFooter{
+    padding-top:20px ;
+}
+.myParaText{
+    align-self: flex-end;
+    padding-top: 25px;
+    font-size: 20px;
+}
+.myTextPara2{
+    padding: 40px 0px;
+}
+.myPara2{
+    padding-left: 30px;
+
+}
+.myAnchor{
+    padding-left:30px;
+}
+/* -------------footer-------- */
+.footerPart2{
+    /* border-bottom: 1px solid red; */
+    background-color:#EBEEEF;
+}
+.footerStarting{
+    padding-top: 10px;
+    padding-bottom: 50px;
+    color: #002F34;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+
+}
+.boldHead:hover{
+    cursor: auto!important;
+}
+.footerStart .boldHead .li{
+    padding: 10px;
+}
+
+.footerStart li{
+    list-style: none;
+
+}
+.footerStart li:hover{
+    color: #002F34;
+    font-weight: 500;
+    cursor: pointer;
+}
+.footerStart2 li{
+    list-style: none;
+
+}
+.footerStart2 li:hover{
+    color: #002F34;
+    font-weight: 500;
+    cursor: pointer;
+}
+.footerStart3{
+
+}
+.footerStart3 li{
+    list-style: none;
+}
+.footerStart3 li:hover{
+    color: #002F34;
+    font-weight: 500;
+    cursor: pointer;
+}
+.footerStart4{
+    border-bottom: #F7FFF7 !important;
+
+}
+.footerStart4 li{
+    list-style: none;
+}
+.footerStart4 li:hover{
+    color: #002F34;
+    font-weight: 500;
+    cursor: pointer;
+}
+.footerStart5{
+    border-bottom: #F7FFF7 !important;
+    padding-right: 10px;
+
+}
+.footerStart5 li{
+    list-style: none;
+}
+.IconsFooter{
+    padding: 0;
+}
+.footerStart5 .IconsFooter:hover{
+    color: #002F34;
+    font-weight: 500;
+    cursor: pointer;
+}
+/* -------footer bottom----- */
+.footerBottom{
+    background-color: #002F34;
+    color: #FFFFFC;
+}
+.footerBottom .myBottom{
+    display: flex;
+    justify-content: flex-end;
+}
+.footerBottom .myBottom p{
+    padding-top: 18px;
+    font-size: small;
+    font-weight:500 ;
+}
